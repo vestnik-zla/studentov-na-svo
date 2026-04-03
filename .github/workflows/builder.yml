@@ -1,0 +1,25 @@
+name: Add preamble
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: bash .scripts/build-files.sh
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@github.com"
+
+          git add .
+          git commit -m "Add preamble [skip ci]" || exit 0
+          git push
