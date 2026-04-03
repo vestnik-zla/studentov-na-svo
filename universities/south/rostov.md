@@ -59,7 +59,7 @@
 
 [tpi]: https://tpi.donstu.ru/?p=8168
 
-[tpi-wayback]: (https://web.archive.org/web/20260316153924/https://tpi.donstu.ru/?p=8168)
+[tpi-wayback]: https://web.archive.org/web/20260316153924/https://tpi.donstu.ru/?p=8168
 
 <!-- PERSONS -->
 
