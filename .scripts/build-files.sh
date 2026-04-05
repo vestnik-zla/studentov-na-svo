@@ -14,7 +14,6 @@ find . -type f -name "*.md" ! -path "./.templates/*" | while read -r file; do
 
     {
         echo "$PREAMBLE"
-        echo
         cat "$file"
     } > "$tmpfile"
 
