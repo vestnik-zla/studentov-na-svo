@@ -17,6 +17,7 @@
 Донаты принимаются в биткоинах (BTC): [bc1qjwyffwurxwrahrvlv8ggpw2qyemga3n92x4x9f](bitcoin:bc1qjwyffwurxwrahrvlv8ggpw2qyemga3n92x4x9f).
 
 <!-- PREAMBLE END -->
+
 # Брянская область
 
 | Город  | Колледж, техникум                                             | Ссылки                                            | Копии                                                             | Ответственные лица                                                                                  | Структурные подразделения |
@@ -27,37 +28,24 @@
 
 [bppk_site]: https://bppk.info/news/456-sluzhba-v-bpla.html
 
-
+[bppk_archive]: https://web.archive.org/web/20260410183314/https://bppk.info/news/456-sluzhba-v-bpla.html
 
 [bsk_vk1]: https://vk.com/wall-211702052_5370
 
-
 [bsk_vk1_archive]: https://archive.md/WQmzX
-
 
 [bsk_vk2]: https://vk.com/wall-211702052_5463
 
-
 [bsk_vk2_archive]: https://archive.md/4htsr
-
-
 
 [bkt_site]: https://бкт32.рф/
 
-
 [bkt_site_archive]: https://archive.md/TdDJH
-
 
 [bkt_vk]: https://vk.com/wall-24874968_8595
 
-
 [bkt_vk_archive]: https://archive.md/fHdDS
-
-
 
 [bkt_shard_vk]: https://vk.com/id51684808
 
-
 [bkt_osipova_vk]: https://vk.com/id230957280
-
-
