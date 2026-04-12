@@ -1,0 +1,62 @@
+# Санкт-Петербург
+
+| Город           | Колледж, техникум                                                | Ссылки               | Копии                     | Ответственные лица                                                                                                                                  | Структурные подразделения |
+| --------------- | ---------------------------------------------------------------- | -------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Санкт-Петербург | Колледж «Звёздный»                                               | [сайт][zv_site]      | [сайт][zv_archive]        | 1. Пантелеенко Римма Александровна                                                                                                                  |                           |
+| Санкт-Петербург | Колледж Петербургской моды                                       | [вконтакте][moda_vk] | [вконтакте][moda_archive] | 1. Коротеева Ольга Сергеевна<br/>2. Чернейко Татьяна<br/>2. Гибенкова Диана<br/>3. Наумова Виктория Александровна<br/>3. Чистов Павел Александрович |                           |
+| Санкт-Петербург | Невский колледж им. А. Г. Неболсина                              | [сайт][nev_site]     | [сайт][nev_archive]       |                                                                                                                                                     |                           |
+| Санкт-Петербург | Петровский колледж                                               | [сайт][petro_site]   | [сайт][petro_archive]     | 1. Васина Елена Вячеславовна<br/>3. Тимченко Анатолий Григорьевич<br/>3. Ляпин Алексей Станиславович                                                |                           |
+| Санкт-Петербург | Российский колледж традиционной культуры и отраслевых технологий | [сайт][rktk_site]    | [сайт][rktk_archive]      | 1. Говорушина Татьяна Константиновна                                                                                                                |                           |
+| Санкт-Петербург | Училище олимпийского резерва № 1                                 | [сайт][uor1_site]    | [сайт][uor1_archive]      |                                                                                                                                                     |                           |
+| Санкт-Петербург | Училище олимпийского резерва № 2 (техникум)                      | [вконтакте][uor2_vk] | [вконтакте][uor2_archive] | 2. Федор Балабанов ([vk][balabanov_vk])                                                                                                             |                           |
+
+[zv_site]: https://zvezdny.spb.ru/
+
+
+
+[zv_archive]: https://web.archive.org/web/20260411003431/https://zvezdny.spb.ru/
+
+
+
+[moda_vk]: https://vk.com/wall-66636177_11944
+
+
+[moda_archive]: https://archive.md/R5JNm
+
+
+
+[nev_site]: https://nppl.ru/press-center/news/for-students/stat-vysokoklassnym-spetsialistom-mozhno-vsego-za-1-god-a-potom-prodolzhit-rabotat-na-grazhdanke-/
+
+
+[nev_archive]: https://web.archive.org/web/20260410231527/https://nppl.ru/press-center/news/for-students/stat-vysokoklassnym-spetsialistom-mozhno-vsego-za-1-god-a-potom-prodolzhit-rabotat-na-grazhdanke-/
+
+
+
+[petro_site]: https://petrocollege.ru/bpla/
+
+
+[petro_archive]: https://web.archive.org/web/20260412200704/https://petrocollege.ru/bpla/
+
+
+
+[rktk_site]: https://rktk.org/entrant/activities-for-students/%D1%81%D1%82%D0%B0%D0%BD%D1%8C-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%BC-%D0%B1%D0%BF%D0%BB%D0%B0
+
+
+[rktk_archive]: https://web.archive.org/web/20260411004038/https://rktk.org/entrant/activities-for-students/%D1%81%D1%82%D0%B0%D0%BD%D1%8C-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%BC-%D0%B1%D0%BF%D0%BB%D0%B0
+
+
+
+[uor1_site]: https://spbuor1.ru/%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%B0-%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC/
+
+
+[uor1_archive]: https://archive.md/EC79l
+
+
+
+[uor2_vk]: https://vk.com/wall-17386088_16314
+
+
+[uor2_archive]: https://web.archive.org/web/20260410222055/https://vk.com/wall-17386088_16314
+
+
+[balabanov_vk]: https://vk.com/balabanov12
