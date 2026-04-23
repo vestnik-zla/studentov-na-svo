@@ -1,0 +1,38 @@
+# Хабаровский край
+
+| Город     | Учебное заведение                                                                                                                                 | Ссылки                                                                                                                                     | Копии                                                                                                                                                                              | Ответственные лица                                                                               | Структурные подразделения |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------- |
+| Хабаровск | Дальневосточный государственный университет путей сообщения                                                                                       | [телеграм 1][dvgups_tg1]<br/>[телеграм 2][dvgups_tg2]<br/>[телеграм 3][dvgups_tg3]<br/>[телеграм 4][dvgups_tg4]<br/>[вконтакте][dvgups_vk] | [телеграм 1][dvgups_tg1_archive]<br/>[телеграм 2][dvgups_tg2_archive]<br/>[телеграм 3][dvgups_tg3_archive]<br/>[телеграм 4][dvgups_tg4_archive]<br/>[вконтакте][dvgups_vk_archive] | 1. [Буровцев Владимир Викторович][burovtsev_site] ([wiki][burovtsev_wiki])                       |                           |
+| Хабаровск | Дальневосточный институт управления — филиал Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации | [вконтакте][ranepa_vk]                                                                                                                     | [вконтакте][ranepa_vk_archive]                                                                                                                                                     | 1. [Меркулов Евгений Сергеевич][merkulov]<br/>2. Воронин Роман Александрович ([@][voronin_mail]) |                           |
+
+[dvgups_tg1]: https://t.me/My_dvgups/7156
+
+[dvgups_tg1_archive]: https://web.archive.org/web/20260422233639/https://t.me/My_dvgups/7156#  
+
+[dvgups_tg2]: https://t.me/My_dvgups/7190
+
+[dvgups_tg2_archive]: https://web.archive.org/web/20260422233513/https://t.me/My_dvgups/7190#  
+
+[dvgups_tg3]: https://t.me/My_dvgups/7203
+
+[dvgups_tg3_archive]: https://web.archive.org/web/20260422233733/https://t.me/My_dvgups/7203#  
+
+[dvgups_tg4]: https://t.me/My_dvgups/7216
+
+[dvgups_tg4_archive]: https://web.archive.org/web/20260422233921/https://t.me/My_dvgups/7216#  
+
+[dvgups_vk]: https://vk.com/wall-161931251_4639
+
+[dvgups_vk_archive]: https://archive.md/jE4O6  
+
+[burovtsev_site]: https://dvgups.ru/main/rectorat/18-rector
+
+[burovtsev_wiki]: https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BE%D0%B2%D1%86%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87  
+
+[ranepa_vk]: https://vk.com/wall-132735702_5031
+
+[ranepa_vk_archive]: https://archive.md/n881W  
+
+[merkulov]: https://www.spisok-putina.org/personas/merkulov-4/
+
+[voronin_mail]: mailto:voronin-ra@ranepa.ru
