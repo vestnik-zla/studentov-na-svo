@@ -74,14 +74,14 @@
 
 ## Дальневосточный федеральный округ
 
-| Регион                       | Учебные заведения                                          | Регион                   | Учебные заведения                                 |
-| ---------------------------- | ---------------------------------------------------------- | ------------------------ | ------------------------------------------------- |
-| Амурская область             | [колледжи](Colleges/Far-East/Amur-Oblast.md)               | Республика Бурятия       | [колледжи](Colleges/Far-East/Buryatia.md)         |
-| Еврейская автономная область | [колледжи](Colleges/Far-East/Jewish-Autonomous-Oblast.md)  | Забайкальский край       | [колледжи](Colleges/Far-East/Zabaykalsky-Krai.md) |
-| Камчатский край              | [колледжи](Colleges/Far-East/Kamchatka-Krai.md)            | Магаданская область      | [колледжи](Colleges/Far-East/Magadan-Oblast.md)   |
-| Приморский край              | [колледжи](Colleges/Far-East/Primorsky-Krai.md)            | Республика Саха (Якутия) | [колледжи](Colleges/Far-East/Sakha-Yakutia.md)    |
-| Сахалинская область          | [колледжи](Colleges/Far-East/Sakhalin-Oblast.md)           | Хабаровский край         | [колледжи](Colleges/Far-East/Khabarovsk-Krai.md)  |
-| Чукотский автономный округ   | [колледжи](Colleges/Far-East/Chukotka-Autonomous-Okrug.md) |                          |                                                   |
+| Регион                       | Учебные заведения                                                                                        | Регион                   | Учебные заведения                                                                                          |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Амурская область             | [колледжи](Colleges/Far-East/Amur-Oblast.md)                                                             | Республика Бурятия       | [колледжи](Colleges/Far-East/Buryatia.md)                                                                  |
+| Еврейская автономная область | [колледжи](Colleges/Far-East/Jewish-Autonomous-Oblast.md)                                                | Забайкальский край       | [колледжи](Colleges/Far-East/Zabaykalsky-Krai.md)                                                          |
+| Камчатский край              | [колледжи](Colleges/Far-East/Kamchatka-Krai.md)                                                          | Магаданская область      | [колледжи](Colleges/Far-East/Magadan-Oblast.md)                                                            |
+| Приморский край              | [университеты](Universities/Far-East/Primorsky-Krai.md), [колледжи](Colleges/Far-East/Primorsky-Krai.md) | Республика Саха (Якутия) | [колледжи](Colleges/Far-East/Sakha-Yakutia.md)                                                             |
+| Сахалинская область          | [колледжи](Colleges/Far-East/Sakhalin-Oblast.md)                                                         | Хабаровский край         | [университеты](Universities/Far-East/Khabarovsk-Krai.md), [колледжи](Colleges/Far-East/Khabarovsk-Krai.md) |
+| Чукотский автономный округ   | [колледжи](Colleges/Far-East/Chukotka-Autonomous-Okrug.md)                                               |                          |                                                                                                            |
 
 ## Приволжский федеральный округ
 
