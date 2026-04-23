@@ -90,7 +90,7 @@
 | Республика Башкортостан | [университеты](Universities/Volga/Bashkortostan.md), [колледжи](Colleges/Volga/Bashkortostan.md)                   | Республика Марий Эл  |                                               |
 | Республика Мордовия     |                                                                                                                    | Республика Татарстан |                                               |
 | Удмуртская Республика   |                                                                                                                    | Чувашская Республика |                                               |
-| Пермский край           |                                                                                                                    | Кировская область    |                                               |
+| Пермский край           |                                                                                                                    | Кировская область    | [колледжи](Colleges/Volga/Kirov-Oblast.md)    |
 | Нижегородская область   | [университеты](Universities/Volga/Nizhny-Novgorod-Oblast.md), [колледжи](Colleges/Volga/Nizhny-Novgorod-Oblast.md) | Оренбургская область | [колледжи](Colleges/Volga/Orenburg-Oblast.md) |
 | Пензенская область      |                                                                                                                    | Самарская область    | [колледжи](Colleges/Volga/Samara-Oblast.md)   |
 | Саратовская область     |                                                                                                                    | Ульяновская область  |                                               |
