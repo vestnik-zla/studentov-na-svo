@@ -67,6 +67,7 @@
 ## СМИ о нас
 
 * Телеграм-канал Дмитрия Колезева: https://t.me/kolezev/17415.
+* Activatica.org: https://activatica.org/content/14ee73bc-e74c-4e46-87b0-3dbaf8cf22aa/vestnik-zla-fiksiruet-fakty-verbovki-studentov-v-armiyu.
 
 ## Полезные ссылки
 
