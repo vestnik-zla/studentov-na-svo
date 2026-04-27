@@ -1,8 +1,9 @@
-[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/Vestnik_Zla)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/Vestnik_Zla) • 
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8A2D2D?logo=protonmail&logoColor=white)](mailto:protiv.fashizma.ru@proton.me) • 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vestnik-zla/studentov-na-svo)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/vestnik-zla/studentov-na-svo)
 [![Gitea](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white)](https://gitea.com/vestnik-zla/studentov-na-svo/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8A2D2D?logo=protonmail&logoColor=white)](mailto:protiv.fashizma.ru@proton.me)
+[![sourcehut](https://img.shields.io/badge/sourcehut-white?logo=sourcehut&logoColor=white&labelColor=black)](https://git.sr.ht/~vestnik-zla/studentov-na-svo)
 
 # О проекте
 
