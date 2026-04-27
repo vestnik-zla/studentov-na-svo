@@ -97,7 +97,7 @@
 | Республика Башкортостан | [университеты](Universities/Volga/Bashkortostan.md), [колледжи](Colleges/Volga/Bashkortostan.md)                   | Республика Марий Эл  |                                                                                                |
 | Республика Мордовия     |                                                                                                                    | Республика Татарстан |                                                                                                |
 | Удмуртская Республика   |                                                                                                                    | Чувашская Республика |                                                                                                |
-| Пермский край           |                                                                                                                    | Кировская область    | [университеты](Universities/Volga/Kirov-Oblast.md), [колледжи](Colleges/Volga/Kirov-Oblast.md) |
+| Пермский край           | [колледжи](Colleges/Volga/Perm-Krai.md)                                                                            | Кировская область    | [университеты](Universities/Volga/Kirov-Oblast.md), [колледжи](Colleges/Volga/Kirov-Oblast.md) |
 | Нижегородская область   | [университеты](Universities/Volga/Nizhny-Novgorod-Oblast.md), [колледжи](Colleges/Volga/Nizhny-Novgorod-Oblast.md) | Оренбургская область | [колледжи](Colleges/Volga/Orenburg-Oblast.md)                                                  |
 | Пензенская область      |                                                                                                                    | Самарская область    | [колледжи](Colleges/Volga/Samara-Oblast.md)                                                    |
 | Саратовская область     |                                                                                                                    | Ульяновская область  |                                                                                                |
@@ -117,7 +117,7 @@
 
 | Регион                              | Учебные заведения                                     | Регион                          | Учебные заведения                                                 |
 | ----------------------------------- | ----------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- |
-| Республика Дагестан                 |                                                       | Республика Ингушетия            | [колледжи](Colleges/North-Caucasus/Ingushetia.md)                 |
+| Республика Дагестан                 | [колледжи](Colleges/North-Caucasus/Dagestan.md)       | Республика Ингушетия            | [колледжи](Colleges/North-Caucasus/Ingushetia.md)                 |
 | Кабардино-Балкарская Республика     |                                                       | Карачаево-Черкесская Республика | [колледжи](Colleges/North-Caucasus/Karachay-Cherkess-Republic.md) |
 | Республика Северная Осетия — Алания |                                                       | Чеченская Республика            |                                                                   |
 | Ставропольский край                 | [колледжи](Colleges/North-Caucasus/Stavropol-Krai.md) |                                 |                                                                   |
@@ -152,7 +152,7 @@
 | Орловская область    |                                                                                                      | Рязанская область   |                                                                                                      |
 | Смоленская область   |                                                                                                      | Тамбовская область  |                                                                                                      |
 | Тверская область     |                                                                                                      | Тульская область    |                                                                                                      |
-| Ярославская область  |                                                                                                      | Москва              | [университеты](Universities/Center/Moscow.md), [колледжи](Colleges/Center/Moscow.md)                 |
+| Ярославская область  | [колледжи](Colleges/Center/Yaroslavl-Oblast.md)                                                      | Москва              | [университеты](Universities/Center/Moscow.md), [колледжи](Colleges/Center/Moscow.md)                 |
 
 ## Южный федеральный округ
 

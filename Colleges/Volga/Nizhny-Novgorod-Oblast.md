@@ -19,16 +19,23 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Нижегородская область
 
-| Город   | Колледж, техникум               | Ссылки              | Копии                       | Ответственные лица          | Структурные подразделения |
-| ------- | ------------------------------- | ------------------- | --------------------------- | --------------------------- | ------------------------- |
-| Арзамас | Арзамасский музыкальный колледж | [сайт][arzamas_muz] | [сайт][arzamas_muz_archive] | 1. Суслов Евгений Сергеевич |                           |
-
-<!-- OFFICIAL INFORMATION -->
+| Город           | Колледж, техникум                    | Ссылки               | Копии                       | Ответственные лица            | Структурные подразделения |
+| --------------- | ------------------------------------ | -------------------- | --------------------------- | ----------------------------- | ------------------------- |
+| Арзамас         | Арзамасский музыкальный колледж      | [сайт][arzamas_muz]  | [сайт][arzamas_muz_archive] | 1. Суслов Евгений Сергеевич   |                           |
+| Городец         | Городецкий губернский колледж        | [сайт][ggk_237]      | [сайт][ggk_237_arch]        | 1. Частнов Кирилл Сергеевич   |                           |
+| Нижний Новгород | Нижегородский колледж малого бизнеса | [вконтакте][vk_4589] | [вконтакте][vk_4589_arch]   | 1. Евтеев Александр Сергеевич |                           |
 
 [arzamas_muz]: https://arz-muz.ru/press-tsentr/novosti/v-nizhnem-novgorode-aktivno-idet-nabor-dobrovoltsev-v-vojska-bespilotnykh-letatelnykh-sistem
+
 [arzamas_muz_archive]: https://web.archive.org/web/20260404031120/https://arz-muz.ru/press-tsentr/novosti/v-nizhnem-novgorode-aktivno-idet-nabor-dobrovoltsev-v-vojska-bespilotnykh-letatelnykh-sistem
 
-<!-- PERSONS -->
+[vk_4589]: https://vk.com/wall-202828930_4589
 
+[vk_4589_arch]: https://archive.md/Qgsgg
+
+[ggk_237]: https://ggk-gorodec.ru/vazhnaya-informatsiya/stante-chastyu-komandy-kotoraya-formiruet-zavtrashnij-den
+
+[ggk_237_arch]: https://web.archive.org/web/20260426224650/https://ggk-gorodec.ru/vazhnaya-informatsiya/stante-chastyu-komandy-kotoraya-formiruet-zavtrashnij-den
