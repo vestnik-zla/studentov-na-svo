@@ -22,10 +22,31 @@
 
 # Кемеровская область
 
-| Город           | Колледж, техникум                         | Ссылки                                 | Копии                                            | Ответственные лица                                             | Структурные подразделения |
-| --------------- | ----------------------------------------- | -------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------- |
-| Анжеро-Судженск | Анжеро-Судженский политехнический колледж | [СМИ 1][tg31363]<br/>[СМИ 2][tg110515] | [СМИ 1][tg31363_arch]<br/>[СМИ 2][tg110515_arch] | 1. Ахмерова Динара Фирзановна<br/>3. Федорова Оксана Борисовна |                           |
-| Новокузнецк     | Училище олимпийского резерва Кузбасса     | [сайт][kuzb_site]                      | [сайт][kuzb_archive]                             | 1. Судьина Любовь Николаевна                                   |                           |
+| Город           | Колледж, техникум                         | Ссылки                                                                                                                         | Копии                                                                                                                                                   | Ответственные лица                                             | Структурные подразделения |
+| --------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------- |
+| Анжеро-Судженск | Анжеро-Судженский политехнический колледж | [СМИ 1][tg31363]<br/>[СМИ 2][tg110515]                                                                                         | [СМИ 1][tg31363_arch]<br/>[СМИ 2][tg110515_arch]                                                                                                        | 1. Ахмерова Динара Фирзановна<br/>3. Федорова Оксана Борисовна |                           |
+| Белово          | Беловский педагогический колледж          | [вконтакте][vk_12421]<br/>[сайт][belpc_bpla]<br/>[СМИ 1][belpc_ngs42]<br/>[СМИ 2][belpc_kuzwriter]<br/>[СМИ 3][belpc_semnasem] | [вконтакте][vk_12421_arch]<br/>[сайт][belpc_bpla_arch]<br/>[СМИ 1][belpc_ngs42_arch]<br/>[СМИ 2][belpc_kuzwriter_arch]<br/>[СМИ 3][belpc_semnasem_arch] | 1. Жуков Алексей Геннадьевич                                   |                           |
+| Новокузнецк     | Училище олимпийского резерва Кузбасса     | [сайт][kuzb_site]                                                                                                              | [сайт][kuzb_archive]                                                                                                                                    | 1. Судьина Любовь Николаевна                                   |                           |
+
+[belpc_bpla]: https://belpc.kemobl.ru/news/podrazdelenie-bpla-operator-neshturmovoe-podrazdelenie-srok-sluzhby-1god/
+
+[belpc_bpla_arch]: https://archive.md/6qjDm  
+
+[vk_12421]: https://vk.com/wall-115939219_12421
+
+[vk_12421_arch]: https://archive.md/NQnKT  
+
+[belpc_ngs42]: https://ngs42.ru/text/education/2026/04/22/76379594/
+
+[belpc_ngs42_arch]: https://web.archive.org/web/20260428175600/https://ngs42.ru/text/education/2026/04/22/76379594/  
+
+[belpc_kuzwriter]: https://t.me/kuzwriter/2392
+
+[belpc_kuzwriter_arch]: https://web.archive.org/web/20260428175705/https://t.me/kuzwriter/2392  
+
+[belpc_semnasem]: https://semnasem.org/news/2026/04/28/u-zheny-studenta-iz-korennogo-naroda-kotoromu-predlozhili-zaklyuchit-kontrakt-na-fone-stressa-sluchilsya-vykidysh
+
+[belpc_semnasem_arch]: https://web.archive.org/web/20260428175429/https://semnasem.org/news/2026/04/28/u-zheny-studenta-iz-korennogo-naroda-kotoromu-predlozhili-zaklyuchit-kontrakt-na-fone-stressa-sluchilsya-vykidysh
 
 [kuzb_site]: https://gounuor.kmr.sportsng.ru/news/139228846
 
